@@ -1,0 +1,55 @@
+### Footprint positions - created on 2025-03-28T01:18:10+0200 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref             Val                            Package                                                           PosX       PosY       Rot  Side
+AuxiliaryDriver1  DRV8833PWP                     TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias              143.1250   -96.7250  180.0000  top
+C1                22µF                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                   163.6250  -100.5000    0.0000  top
+C2                100n                           C_0402_1005Metric                                             135.5000   -74.9800   90.0000  top
+C4                100n                           C_0402_1005Metric                                             135.0000   -92.5200  -90.0000  top
+C5                1μ                            C_0504_1310Metric_Pad0.83x1.28mm_HandSolder                   180.8725   -95.8600    0.0000  top
+C6                10µF                          C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                   168.5000   -90.9375   90.0000  top
+C9                1μ                            C_0504_1310Metric_Pad0.83x1.28mm_HandSolder                   140.1275   -92.0000  180.0000  top
+C10               1μ                            C_0504_1310Metric_Pad0.83x1.28mm_HandSolder                   141.1275   -76.0000  180.0000  top
+C11               1μ                            C_0504_1310Metric_Pad0.83x1.28mm_HandSolder                   156.5000   -82.2250  -90.0000  top
+C12               1μ                            C_0504_1310Metric_Pad0.83x1.28mm_HandSolder                   148.0000   -84.2250  -90.0000  top
+C13               1μ                            C_0504_1310Metric_Pad0.83x1.28mm_HandSolder                   168.5000   -85.8100   90.0000  top
+J1                MotherboardConnectors          PinHeader_2x16_P2.54mm_Vertical                               129.0000   -64.7600    0.0000  top
+J3                USB_C_Receptacle_PowerOnly_6P  USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal   191.7000  -103.6800   90.0000  top
+JST1              BatteryPins                    JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical                         188.0000   -64.0000   90.0000  top
+L1                4.7µH                         L_0603_1608Metric_Pad1.05x0.95mm_HandSolder                   167.6250   -98.5000  180.0000  top
+LoadSwitch1       AP22913CN4                     WLCSP-4_0.64x0.64mm_Layout2x2_P0.35mm                         121.8250   -93.8250    0.0000  top
+LoadSwitch2       AP22913CN4                     WLCSP-4_0.64x0.64mm_Layout2x2_P0.35mm                         121.8250   -75.3250    0.0000  top
+PrimaryDriver1    DRV8833PWP                     TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias              144.1250   -70.7250  180.0000  top
+Q1                NPN                            TO-92                                                         158.8600   -62.2700   90.0000  top
+R1                10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   163.5000   -69.5000   90.0000  top
+R2                30k                            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                   158.6250   -97.5875   90.0000  top
+R9                0.2                            R_0805_2012Metric                                             153.0000   -92.0875   90.0000  top
+R10               0.2                            R_0805_2012Metric                                             150.5000   -92.0000   90.0000  top
+R11               0.2                            R_0805_2012Metric                                             153.5000   -74.5000  -90.0000  top
+R13               2k                             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                   159.5000   -66.0875   90.0000  top
+R14               0.2                            R_0805_2012Metric                                             151.0000   -74.5000   90.0000  top
+R15               0.2                            R_0805_2012Metric                                             178.5000   -62.5875  -90.0000  top
+R16               3k                             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                   156.5000   -69.1750  -90.0000  top
+R18               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   124.5000   -96.0000  -90.0000  top
+R19               680                            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                   151.5000   -61.0000  180.0000  top
+R20               3k                             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                   156.5000   -72.5875  -90.0000  top
+R21               1k                             R_0402_1005Metric                                             177.0000   -97.8500  -90.0000  top
+R22               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   166.0000   -69.5000  -90.0000  top
+R23               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   174.5000   -97.3600   90.0000  top
+R24               1k                             R_0402_1005Metric                                             176.0000  -106.8500  -90.0000  top
+R25               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   124.5000   -77.5000  -90.0000  top
+R26               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   171.5000   -79.0000   90.0000  top
+R27               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   185.0000   -99.3600    0.0000  top
+R28               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   175.5000   -79.0000   90.0000  top
+R29               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   145.5000   -92.0000    0.0000  top
+R30               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   160.1250   -90.0000    0.0000  top
+R31               10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                   145.5000   -76.0000    0.0000  top
+R32               1k                             R_0402_1005Metric                                             158.6250   -94.5975   90.0000  top
+ToggleSwitch1     ON/OFF_Switch                  SW_SPDT_CK_JS102011SAQN                                       193.0000   -83.4000   90.0000  top
+U1                INA219BxD                      SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm                       170.5250   -62.0950    0.0000  top
+U2                TP4056-42-ESOP8                SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias         165.0250   -76.8000    0.0000  top
+U3                CH224K                         SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm                        181.0000  -103.8600    0.0000  top
+U4                TPS61090                       Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_ThermalVias   164.1625   -95.0250   90.0000  top
+U5                AP2112K-3.3                    SOT-23-5                                                      151.8625   -80.2750  180.0000  top
+## End
